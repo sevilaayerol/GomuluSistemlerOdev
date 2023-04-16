@@ -29,5 +29,3 @@ always @(posedge sys_clk or negedge sys_rst_n) begin
         led <= led;
 end
 endmodule
-
-program video linki: https://www.youtube.com/shorts/x9BuyvmvsZk
